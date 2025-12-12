@@ -4,6 +4,8 @@
 1. Clone this repository with this `main` branch.
 ```bash
 git clone https://github.com/Guangzhen-Jin/rcac-docs
+or
+git clone git@github.com:PurdueRCAC/RCAC-Docs.git
 ```
 
 2. Go inside of the folder, create a conda env and install all required packages in `requirements.txt`.
