@@ -83,8 +83,15 @@ nav:
       - userguides/anvil/index.md
       - Anvil Overview: userguides/anvil/overview.md
       - Accessing the System: userguides/anvil/access.md
-      - System Architecture: userguides/anvil/system.md
-      - Running Jobs on Anvil: userguides/anvil/jobs/index.md
+      - System Architecture: userguides/anvil/architecture.md
+      - Running Jobs on Anvil: userguides/anvil/run_jobs/index.md
+      - Managing and Transferring Files: userguides/anvil/storage.md
+      - Software: userguides/anvil/software.md
+      - Policies, Helpful Tips and FAQs: userguides/anvil/policies.md
+      - Anvil Composable Subsystem: userguides/anvil/composable.md
+      - Get Help: userguides/anvil/help.md
+      - Datasets: userguides/anvil/datasets.md
+      - AnvilGPT: userguides/anvil/anvilgpt.md
     - Gautschi User Guide:
       - userguides/gautschi/index.md
       - Gautschi Overview: userguides/gautschi/overview.md
