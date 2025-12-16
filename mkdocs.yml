@@ -87,9 +87,9 @@ nav:
       - Running Jobs on Anvil: userguides/anvil/jobs/index.md
     - Gautschi User Guide:
       - userguides/gautschi/index.md
-      - Biography of Gautschi: userguides/gautschi/biography.md
       - Gautschi Overview: userguides/gautschi/overview.md
-      - Running Jobs on Gautschi: userguides/gautschi/jobs/index.md
+      - Biography of Gautschi: userguides/gautschi/biography.md
+      - Running Jobs on Gautschi: userguides/gautschi/run_jobs/index.md
   - RCAC Blogs:
     - blog/index.md
   - Software:
