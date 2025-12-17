@@ -45,6 +45,5 @@ Mac OS X:
     When prompted for password, enter your Purdue career account password **followed by "**`,push` **"**. Your Purdue Duo client will then receive a notification to approve the login.
 
 ## SSH Keys
-<!-- --8<-- "docs/snippets/ssh_keys.md" -->
-
---8<-- "docs/snippets/login.md"
+{% set resource = "gautschi" %}
+{{ ssh_keys_snippet(resource) }} 
