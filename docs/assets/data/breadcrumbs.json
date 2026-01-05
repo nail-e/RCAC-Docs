@@ -13,34 +13,104 @@
     "Anvil User Guide",
     "Accessing the System"
   ],
-  "/userguides/anvil/system/": [
+  "/userguides/anvil/architecture/": [
     "Home",
     "Anvil User Guide",
     "System Architecture"
   ],
-  "/userguides/anvil/jobs/": [
+  "/userguides/anvil/run_jobs/": [
     "Home",
     "Anvil User Guide",
     "Running Jobs on Anvil"
   ],
+  "/userguides/anvil/storage/": [
+    "Home",
+    "Anvil User Guide",
+    "Managing and Transferring Files"
+  ],
+  "/userguides/anvil/software/": [
+    "Home",
+    "Anvil User Guide",
+    "Software"
+  ],
+  "/userguides/anvil/policies/": [
+    "Home",
+    "Anvil User Guide",
+    "Policies, Helpful Tips and FAQs"
+  ],
+  "/userguides/anvil/composable/": [
+    "Home",
+    "Anvil User Guide",
+    "Anvil Composable Subsystem"
+  ],
+  "/userguides/anvil/help/": [
+    "Home",
+    "Anvil User Guide",
+    "Get Help"
+  ],
+  "/userguides/anvil/datasets/": [
+    "Home",
+    "Anvil User Guide",
+    "Datasets"
+  ],
+  "/userguides/anvil/anvilgpt/": [
+    "Home",
+    "Anvil User Guide",
+    "AnvilGPT"
+  ],
   "/userguides/gautschi/": [
     "Home",
     "Gautschi User Guide"
-  ],
-  "/userguides/gautschi/biography/": [
-    "Home",
-    "Gautschi User Guide",
-    "Biography of Gautschi"
   ],
   "/userguides/gautschi/overview/": [
     "Home",
     "Gautschi User Guide",
     "Gautschi Overview"
   ],
-  "/userguides/gautschi/jobs/": [
+  "/userguides/gautschi/biography/": [
     "Home",
     "Gautschi User Guide",
-    "Running Jobs on Gautschi"
+    "Biography of Gautschi"
+  ],
+  "/userguides/gautschi/accounts/": [
+    "Home",
+    "Gautschi User Guide",
+    "Accounts"
+  ],
+  "/userguides/gautschi/software/": [
+    "Home",
+    "Gautschi User Guide",
+    "Software"
+  ],
+  "/userguides/gautschi/run_jobs/": [
+    "Home",
+    "Gautschi User Guide",
+    "Running Jobs"
+  ],
+  "/userguides/gautschi/storage/": [
+    "Home",
+    "Gautschi User Guide",
+    "File Storage and Transfer"
+  ],
+  "/userguides/gautschi/gateway/": [
+    "Home",
+    "Gautschi User Guide",
+    "Gateway (Open OnDemand)"
+  ],
+  "/userguides/gautschi/compile/": [
+    "Home",
+    "Gautschi User Guide",
+    "Compiling Source Code"
+  ],
+  "/userguides/gautschi/faq/": [
+    "Home",
+    "Gautschi User Guide",
+    "Frequently Asked Questions"
+  ],
+  "/userguides/gautschi/datasets/": [
+    "Home",
+    "Gautschi User Guide",
+    "Datasets"
   ],
   "/blog/": [
     "Home",

@@ -83,13 +83,27 @@ nav:
       - userguides/anvil/index.md
       - Anvil Overview: userguides/anvil/overview.md
       - Accessing the System: userguides/anvil/access.md
-      - System Architecture: userguides/anvil/system.md
-      - Running Jobs on Anvil: userguides/anvil/jobs/index.md
+      - System Architecture: userguides/anvil/architecture.md
+      - Running Jobs on Anvil: userguides/anvil/run_jobs/index.md
+      - Managing and Transferring Files: userguides/anvil/storage.md
+      - Software: userguides/anvil/software.md
+      - Policies, Helpful Tips and FAQs: userguides/anvil/policies.md
+      - Anvil Composable Subsystem: userguides/anvil/composable.md
+      - Get Help: userguides/anvil/help.md
+      - Datasets: userguides/anvil/datasets.md
+      - AnvilGPT: userguides/anvil/anvilgpt.md
     - Gautschi User Guide:
       - userguides/gautschi/index.md
-      - Biography of Gautschi: userguides/gautschi/biography.md
       - Gautschi Overview: userguides/gautschi/overview.md
-      - Running Jobs on Gautschi: userguides/gautschi/jobs/index.md
+      - Biography of Gautschi: userguides/gautschi/biography.md
+      - Accounts: userguides/gautschi/accounts.md
+      - Software: userguides/gautschi/software.md
+      - Running Jobs: userguides/gautschi/run_jobs/index.md
+      - File Storage and Transfer: userguides/gautschi/storage.md
+      - Gateway (Open OnDemand): userguides/gautschi/gateway.md
+      - Compiling Source Code: userguides/gautschi/compile.md
+      - Frequently Asked Questions: userguides/gautschi/faq.md
+      - Datasets: userguides/gautschi/datasets.md
   - RCAC Blogs:
     - blog/index.md
   - Software:
