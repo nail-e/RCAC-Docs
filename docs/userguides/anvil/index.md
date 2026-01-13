@@ -30,7 +30,7 @@
 
 ## Tutorials
 
-- [**Snakemake Workflow**](anvilgpt.md)
+- [**Example**](tutorials/example.md)
 
 ## <a href="maintenance">Maintenance Log</a>
 
