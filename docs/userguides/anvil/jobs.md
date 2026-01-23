@@ -1,3 +1,11 @@
+---
+tags:
+  - Anvil
+authors:
+  - dane
+draft: true
+---
+
 ## Overview / Slurm Basics
 
 Pass
@@ -34,8 +42,8 @@ Prices and stuff
 
 ### Python Jobs
 
-[Python Page](run_jobs/index)
+TODO: Snippet
 
 ### R Jobs
 
-[R Page](run_jobs/index)
+TODO: Snippet
