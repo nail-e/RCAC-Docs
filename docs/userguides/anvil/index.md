@@ -1,13 +1,27 @@
 # Anvil User Guide
 
-- [**Anvil Overview**](overview.md)
-- [**Accessing the System**](access.md)
+## About Anvil
+
+- [**Overview**](overview.md)
 - [**System Architecture**](architecture.md)
-- [**Running Jobs on Anvil**](run_jobs/index.md)
-- [**Managing and Transferring Files**](storage.md)
-- [**Software**](software.md)
-- [**Policies, Helpful Tips and FAQs**](policies.md)
+- [**Technical Specifications**](technical-specs.md)
+
+## User Guide
+
+- [**Access to Anvil**](access.md)
+- [**Getting Started**](getting-started.md)
+- [**Job Submission**](run_jobs/index.md)
+- [**File Management**](file_management.md)
+- [**Anvil Software**](anvil-software.md)
+- [**Troubleshooting and FAQs**](faq.md)
+- [**Help Desk**](help.md)
+<!-- - [**Policies and Support**](policies.md) -->
+
+## Other Services
+
 - [**Anvil Composable Subsystem**](composable.md)
-- [**Get Help**](help.md)
-- [**Datasets**](datasets.md)
-- [**AnvilGPT**](anvilgpt.md)
+- [**AnvilGPT (LLM)**](anvilgpt.md)
+
+## <a href="maintenance">Maintenance Log</a>
+
+## <a href="policies">Policies</a>

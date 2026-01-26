@@ -7,6 +7,8 @@ search:
   boost: 2
 ---
 
+## Overview
+
 Purdue University is the home of Anvil, a powerful new supercomputer that provides advanced computing capabilities to support a wide range of computational and data-intensive research spanning from traditional high-performance computing to modern artificial intelligence applications.
 
 Anvil, which is funded by a $10 million award from the National Science Foundation, significantly increases the capacity available to the NSF&#39;s <a href="https://access-ci.org/">Advanced Cyberinfrastructure Coordination Ecosystem: Services &amp; Support (ACCESS)</a> program, which serves tens of thousands of researchers across the U.S.. Anvil enters production in 2021 and serves researchers for five years. Additional funding from the NSF supports Anvil&#39;s operations and user support.
@@ -39,15 +41,3 @@ All Anvil nodes have 128 processor cores, 256 GB to 1 TB of RAM, and 100 Gbps In
 
 
 Anvil nodes run CentOS 8 and use Slurm (Simple Linux Utility for Resource Management) as the batch scheduler for resource and job management. The application of operating system patches will occur as security needs dictate. All nodes allow for unlimited stack usage, as well as unlimited core dump size (though disk space and server quotas may still be a limiting factor).
-
-## Software catalog
-
-<ul>
-	<li><a href="/knowledge/compilers">Compilers</a></li>
-	<li><a href="/knowledge/mpis">MPIs</a></li>
-	<li><a href="/knowledge/applications">Applications</a></li>
-	<li><a href="/knowledge/utilities">Utilities</a></li>
-	<li><a href="/knowledge/biocontainers">Biocontainers</a></li>
-	<li><a href="/knowledge/ngc">NVIDIA NGC containers</a></li>
-	<li><a href="/knowledge/faqs">FAQs</a></li>
-</ul>
