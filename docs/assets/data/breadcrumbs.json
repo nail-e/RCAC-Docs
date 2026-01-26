@@ -1,62 +1,77 @@
 {
   "/userguides/anvil/": [
     "Home",
-    "Anvil User Guide"
+    "Anvil"
   ],
   "/userguides/anvil/overview/": [
     "Home",
-    "Anvil User Guide",
-    "Anvil Overview"
-  ],
-  "/userguides/anvil/access/": [
-    "Home",
-    "Anvil User Guide",
-    "Accessing the System"
+    "Anvil",
+    "Overview"
   ],
   "/userguides/anvil/architecture/": [
     "Home",
-    "Anvil User Guide",
+    "Anvil",
     "System Architecture"
   ],
-  "/userguides/anvil/run_jobs/": [
+  "/userguides/anvil/technical-specs/": [
     "Home",
-    "Anvil User Guide",
-    "Running Jobs on Anvil"
+    "Anvil",
+    "Technical Specifications"
   ],
-  "/userguides/anvil/storage/": [
+  "/userguides/anvil/access/": [
     "Home",
-    "Anvil User Guide",
-    "Managing and Transferring Files"
+    "Anvil",
+    "Access to Anvil"
   ],
-  "/userguides/anvil/software/": [
+  "/userguides/anvil/getting-started/": [
     "Home",
-    "Anvil User Guide",
-    "Software"
+    "Anvil",
+    "Getting Started"
   ],
-  "/userguides/anvil/policies/": [
+  "/userguides/anvil/jobs/": [
     "Home",
-    "Anvil User Guide",
-    "Policies, Helpful Tips and FAQs"
+    "Anvil",
+    "Job Submission"
   ],
-  "/userguides/anvil/composable/": [
+  "/userguides/anvil/file_management/": [
     "Home",
-    "Anvil User Guide",
-    "Anvil Composable Subsystem"
+    "Anvil",
+    "File Management"
+  ],
+  "/userguides/anvil/anvil-software/": [
+    "Home",
+    "Anvil",
+    "Anvil Software"
+  ],
+  "/userguides/anvil/faq/": [
+    "Home",
+    "Anvil",
+    "Troubleshooting / FAQs"
   ],
   "/userguides/anvil/help/": [
     "Home",
-    "Anvil User Guide",
-    "Get Help"
+    "Anvil",
+    "Help Desk"
   ],
-  "/userguides/anvil/datasets/": [
+  "/userguides/anvil/composable/": [
     "Home",
-    "Anvil User Guide",
-    "Datasets"
+    "Anvil",
+    "Anvil Composable Subsystem"
   ],
   "/userguides/anvil/anvilgpt/": [
     "Home",
-    "Anvil User Guide",
-    "AnvilGPT"
+    "Anvil",
+    "AnvilGPT (LLM)"
+  ],
+  "/userguides/anvil/maintenance/": [
+    "Home",
+    "Anvil",
+    "Maintenance Log"
+  ],
+  "/userguides/anvil/policies/": [
+    "Home",
+    "Anvil",
+    "Key Policies"
   ],
   "/userguides/gautschi/": [
     "Home",
