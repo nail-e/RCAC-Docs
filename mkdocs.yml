@@ -170,7 +170,6 @@ nav:
         - Managing Workloads and Jobs: workshops/hpc_exchange/week4/workloads.md
   - Tags: tags.md
   - Contact us: contact.md
-#  - Templates and Notes: notes.md
 
 extra:
   social:
@@ -234,4 +233,4 @@ markdown_extensions:
 #   - hooks/socialmedia.py
 
 # Copyright
-copyright: Copyright &copy; 2025 Rosen Center for Advanced Computing
+copyright: Copyright &copy; 2026 Rosen Center for Advanced Computing
