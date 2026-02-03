@@ -39,6 +39,23 @@ search:
 
 All nodes, as well as the scratch storage system are interconnected by an oversubscribed (3:1 fat tree) HDR InfiniBand interconnect. The nominal per-node bandwidth is 100 Gbps, with message latency as low as 0.90 microseconds. The fabric is implemented as a two-stage fat tree. Nodes are directly connected to Mellanox QM8790 switches with 60 HDR100 links down to nodes and 10 links to spine switches.
 
+## Anvil Production Queues
+
+| Queue Name | Node Type | Max Nodes per Job | Max Cores per Job | Max Duration | Max Running Jobs per User | Max Running + Submitted Jobs | Charging Factor |
+|----------|-----------|-------------------|-------------------|--------------|---------------------------|------------------------------|-----------------|
+| debug | regular | 2 nodes | 256 cores | 2 hrs | 1 | 2 | 1 |
+| gpu-debug | gpu | 1 node | 2 GPUs | 0.5 hrs | 1 | 2 | 1 |
+| wholenode | regular | 16 nodes | 2,048 cores | 96 hrs | 64 | 2500 | 1 (node-exclusive) |
+| wide | regular | 56 nodes | 7,168 cores | 12 hrs | 5 | 10 | 1 (node-exclusive) |
+| shared | regular | 1 node | 128 cores | 96 hrs | 1280 cores | – | 1 |
+| highmem | large-memory | 1 node | 128 cores | 48 hrs | 2 | 4 | 4 |
+| gpu | gpu | – | – | 48 hrs | – | – | 1 |
+| ai | ai | – | – | 48 hrs | – | – | 1 |
+
+For the **gpu** and **ai** queues:
+- Maximum of **12 GPUs in use per user**
+- Maximum of **32 GPUs in use per allocation**
+
 ## Storage
 
 The Anvil local storage infrastructure provides users with their Home, Scratch, and Project areas. These file systems are mounted across all Anvil nodes and are accessible on the Anvil Globus Endpoints. In addition, **Anvil Ceph** offers a distributed, software-defined storage system that supports large-scale, durable, and high-throughput data access for research workflows.
